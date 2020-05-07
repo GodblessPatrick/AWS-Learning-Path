@@ -185,8 +185,10 @@ Redis:
 
   - Multi-node for partitioning of data (sharding)
 - Non persistent
+  
   - No backup and restore
 - Multi-threaded architecture
+  
   - ![image-20200331211450817](.\screenshot\image-20200331211450817.png)
 
 ### Cache Security 

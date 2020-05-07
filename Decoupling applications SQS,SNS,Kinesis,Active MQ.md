@@ -186,7 +186,7 @@ Great for streaming processing frameworks
 
 Data is automatically replicated to 3 AZ
 
-***Kinesis Streams**: low latency streaming ingest at scale
+**Kinesis Streams**: low latency streaming ingest at scale
 
 **Kinesis Analytics**: perform real-time analytics on streams using SQL
 
